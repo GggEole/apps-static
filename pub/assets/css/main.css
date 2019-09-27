@@ -3191,16 +3191,10 @@ input, select, textarea {
 		position: relative;
 	}
 
-.wrapper.txt{
-	width:50em;
-	margin:auto;
-}
-
-
 		.wrapper > .inner {
 			padding: 5em 5em 3em 5em ;
 			max-width: 100%;
-			width: 75em;
+			width: 50em;
 		}
 
 			@media screen and (max-width: 1680px) {
