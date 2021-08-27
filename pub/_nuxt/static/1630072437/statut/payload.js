@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/statut", {data:[{}],fetch:{},mutations:void 0});

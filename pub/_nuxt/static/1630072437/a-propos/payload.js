@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a-propos", {data:[{aPropos:"\n\u003Ch1\u003EÀ propos\u003C\u002Fh1\u003E\n"}],fetch:{},mutations:void 0});
